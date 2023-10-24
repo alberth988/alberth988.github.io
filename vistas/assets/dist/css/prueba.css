@@ -1,0 +1,63 @@
+.login-page{
+  background-color: rgb(243, 83, 20);
+  background-image: url('vistas/assets/imagenes/bolivar_login.jpeg') !important;
+  object-fit:cover !important;
+  object-position: center !important;
+  background-size: contain !important;
+  background-position: center !important;
+  
+ }
+.card{
+background-color:rgb(0, 0, 0,0.2)!important;  /* Cambia los valores RGBA según tu preferencia */
+border-radius: 2%;
+border-style: hidden;
+
+}
+.login-box{
+    background-color: transparent !important;
+    background-size: cover !important;
+    background-position: center !important;
+    animation: backgroundAnimation 5s infinite;
+    text-shadow: 0cap;
+    
+  }
+  
+
+ .card-primary.card-outline {
+  border-top: 3px solid #212b36;
+} /* modificamos el asside*/
+
+/* modificamos el home*/
+.content-inicio{
+  background-image: url('vistas/assets/imagenes/fondo-home.jpg') !important;
+  background-color: rebeccapurple;
+}
+
+
+  @keyframes backgroundAnimation {
+    0% {
+      background-position: top left;
+    }
+    100% {
+      background-position: bottom right;
+    }
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes changeCursor {
+    from {
+      cursor: pointer;
+    }
+    to {
+      cursor: wait;
+    }
+  }
+  
