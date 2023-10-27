@@ -19,14 +19,14 @@
 
 </head>
         <!--  <body class="hold-transition login-page" > style="background-image: url('vistas/assets/imagenes/bolivar_login.jpeg'); object-fit:cover; object-position: center;background-repeat:no-repeat; background-size:contain"-->
-<body class="hold-transition login-page" style="background-image: url('vistas/assets/imagenes/fondo_login_2.jpg');  background-repeat: no-repeat;  background-position: 0% 50%; background-size: 100% 110%;">
+<body class="hold-transition login-page" style="background-image: url('vistas/assets/imagenes/amarilis.jpeg');  background-repeat: no-repeat;  background-position: 0% 50%; background-size: 100% 110%;">
     <div class="login-box">
 
         <div class="card card-outline card-primary">
 
             <div class="card-header text-center">
 
-                <h1 class="h1"><b>Inicio Sesión</b></h1>
+                <h1 class="h1"><b>Xculsive Dent</b></h1>
 
             </div><!-- /.card-header -->
 

@@ -1,12 +1,4 @@
-.login-page{
-  background-color: rgb(243, 83, 20);
-  background-image: url('vistas/assets/imagenes/bolivar_login.jpeg') !important;
-  object-fit:cover !important;
-  object-position: center !important;
-  background-size: contain !important;
-  background-position: center !important;
-  
- }
+
 .card{
 background-color:rgb(0, 0, 0,0.2)!important;  /* Cambia los valores RGBA según tu preferencia */
 border-radius: 2%;
@@ -21,7 +13,10 @@ border-style: hidden;
     text-shadow: 0cap;
     
   }
-  
+  .h1{
+color: aqua;
+font-size: 30px;
+  }
 
  .card-primary.card-outline {
   border-top: 3px solid #212b36;
@@ -60,4 +55,48 @@ border-style: hidden;
       cursor: wait;
     }
   }
+  .login-form {
+    background-color: #222;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
   
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #00aaff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0088cc;
+  }
+  .site-header inicio{
+    background-image: url('vistas/assets/imagenes/fondo-home.jpg') !important;
+
+  }
+  .content_wrapper{
+    background-color: red;
+
+  }
+  .contenido-header{
+    background-color: black;
+  }

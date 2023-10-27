@@ -5,8 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Xclusive Dent</title>
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
-
+      <!-- css de prueba-->
     <link rel="stylesheet" href="vistas/assets/dist/css/prueba.css">
+
+ 
 </head>
 <body >
     <header class="site-header inicio">
